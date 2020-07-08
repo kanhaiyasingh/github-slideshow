@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to second slide"
 ---
-kanhaiya
+kanhaiya has new text
 Use the left arrow to go back!
